@@ -5,6 +5,7 @@
         text-align: center;
         background-color:white;
         height: 100%;
+        
 }
 
    
@@ -26,12 +27,12 @@
 }
 
     .box {
-        color: #fff;
+        color: black;
         padding: 2rem;
         position: center;
         top: 10%;
         left: 20%;
-        background: #252525;
+        background:white;
         box-shadow: yellowgreen;
         transition: transform 300ms ease-in-out, box-shadow 400ms ease, background 100ms ease;
 }
