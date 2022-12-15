@@ -1,7 +1,7 @@
 function randomMessage() {
-    positive = ['U will be Wealthy!!','Be Cheerful', 'Be Confident',];
-    healthy = ['Work Hard!!','Athletic', 'Active',];
-    wealthy = ['Do it scared','U will be Rich','Cash Money For You',];
+    positive = ['U will be Wealthy!!','Be Cheerful', 'Be Confident','Love All',];
+    healthy = ['Work Hard!!','Athletic', 'Active','Stay Hungry'];
+    wealthy = ['Do it scared','U will be Rich','Cash Money For You','Move Mountains',];
     blessed = ['Look how far you have come!!','Good Things To Come!!','You Will Be Blessed!',];
 
     const randomize = (array) => {
